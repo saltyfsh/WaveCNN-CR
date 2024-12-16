@@ -1,0 +1,43 @@
+Date: 2024-11-09 18:34:17s, Epoch: [1/300], Train_PSNR: 22.66, Train_SSIM: 0.6470, Train_CIEDE2000:9.3952, Time:2.40min
+Date: 2024-11-09 18:36:40s, Epoch: [2/300], Train_PSNR: 24.04, Train_SSIM: 0.7522, Train_CIEDE2000:7.1779, Time:2.38min
+Date: 2024-11-09 18:39:02s, Epoch: [3/300], Train_PSNR: 24.44, Train_SSIM: 0.7709, Train_CIEDE2000:6.7541, Time:2.36min
+Date: 2024-11-09 18:41:25s, Epoch: [4/300], Train_PSNR: 24.44, Train_SSIM: 0.7629, Train_CIEDE2000:6.8662, Time:2.38min
+Date: 2024-11-09 18:43:48s, Epoch: [5/300], Train_PSNR: 24.55, Train_SSIM: 0.7714, Train_CIEDE2000:6.7000, Time:2.39min
+Date: 2024-11-09 18:44:02s, Epoch: [5/300], Test_PSNR: 24.32, Test_SSIM: 0.7804, Test_CIEDE2000:6.7910
+Date: 2024-11-09 18:46:26s, Epoch: [6/300], Train_PSNR: 24.57, Train_SSIM: 0.7632, Train_CIEDE2000:6.8216, Time:2.40min
+Date: 2024-11-09 18:48:48s, Epoch: [7/300], Train_PSNR: 24.83, Train_SSIM: 0.7800, Train_CIEDE2000:6.4941, Time:2.37min
+Date: 2024-11-09 18:51:11s, Epoch: [8/300], Train_PSNR: 23.27, Train_SSIM: 0.7212, Train_CIEDE2000:8.4525, Time:2.37min
+Date: 2024-11-09 18:53:33s, Epoch: [9/300], Train_PSNR: 24.39, Train_SSIM: 0.7615, Train_CIEDE2000:6.8316, Time:2.37min
+Date: 2024-11-09 18:55:57s, Epoch: [10/300], Train_PSNR: 24.53, Train_SSIM: 0.7687, Train_CIEDE2000:6.7506, Time:2.40min
+Date: 2024-11-09 18:56:11s, Epoch: [10/300], Test_PSNR: 24.79, Test_SSIM: 0.7748, Test_CIEDE2000:6.5077
+Date: 2024-11-09 18:58:34s, Epoch: [11/300], Train_PSNR: 24.80, Train_SSIM: 0.7749, Train_CIEDE2000:6.6009, Time:2.38min
+Date: 2024-11-09 19:00:56s, Epoch: [12/300], Train_PSNR: 24.84, Train_SSIM: 0.7794, Train_CIEDE2000:6.5358, Time:2.36min
+Date: 2024-11-09 19:03:20s, Epoch: [13/300], Train_PSNR: 24.95, Train_SSIM: 0.7834, Train_CIEDE2000:6.3677, Time:2.40min
+Date: 2024-11-09 19:05:44s, Epoch: [14/300], Train_PSNR: 24.89, Train_SSIM: 0.7799, Train_CIEDE2000:6.4594, Time:2.39min
+Date: 2024-11-09 19:08:05s, Epoch: [15/300], Train_PSNR: 24.93, Train_SSIM: 0.7808, Train_CIEDE2000:6.4357, Time:2.36min
+Date: 2024-11-09 19:08:20s, Epoch: [15/300], Test_PSNR: 25.19, Test_SSIM: 0.7905, Test_CIEDE2000:6.2273
+Date: 2024-11-09 19:10:43s, Epoch: [16/300], Train_PSNR: 25.05, Train_SSIM: 0.7855, Train_CIEDE2000:6.3431, Time:2.39min
+Date: 2024-11-09 19:13:06s, Epoch: [17/300], Train_PSNR: 25.02, Train_SSIM: 0.7852, Train_CIEDE2000:6.3274, Time:2.38min
+Date: 2024-11-09 19:15:30s, Epoch: [18/300], Train_PSNR: 23.91, Train_SSIM: 0.7413, Train_CIEDE2000:7.8370, Time:2.40min
+Date: 2024-11-09 19:17:52s, Epoch: [19/300], Train_PSNR: 24.86, Train_SSIM: 0.7767, Train_CIEDE2000:6.5252, Time:2.36min
+Date: 2024-11-09 19:20:15s, Epoch: [20/300], Train_PSNR: 25.02, Train_SSIM: 0.7822, Train_CIEDE2000:6.3877, Time:2.38min
+Date: 2024-11-09 19:20:29s, Epoch: [20/300], Test_PSNR: 25.24, Test_SSIM: 0.7863, Test_CIEDE2000:6.2737
+Date: 2024-11-09 19:22:52s, Epoch: [21/300], Train_PSNR: 25.09, Train_SSIM: 0.7869, Train_CIEDE2000:6.3033, Time:2.38min
+Date: 2024-11-09 19:25:15s, Epoch: [22/300], Train_PSNR: 24.44, Train_SSIM: 0.7548, Train_CIEDE2000:7.3291, Time:2.38min
+Date: 2024-11-09 19:27:38s, Epoch: [23/300], Train_PSNR: 24.94, Train_SSIM: 0.7822, Train_CIEDE2000:6.4366, Time:2.39min
+Date: 2024-11-09 19:30:01s, Epoch: [24/300], Train_PSNR: 25.25, Train_SSIM: 0.7883, Train_CIEDE2000:6.1945, Time:2.38min
+Date: 2024-11-09 19:32:25s, Epoch: [25/300], Train_PSNR: 25.27, Train_SSIM: 0.7911, Train_CIEDE2000:6.1638, Time:2.40min
+Date: 2024-11-09 19:32:39s, Epoch: [25/300], Test_PSNR: 25.26, Test_SSIM: 0.7874, Test_CIEDE2000:6.0751
+Date: 2024-11-09 19:35:02s, Epoch: [26/300], Train_PSNR: 25.27, Train_SSIM: 0.7900, Train_CIEDE2000:6.1637, Time:2.38min
+Date: 2024-11-09 19:37:25s, Epoch: [27/300], Train_PSNR: 24.97, Train_SSIM: 0.7676, Train_CIEDE2000:6.6904, Time:2.39min
+Date: 2024-11-09 19:39:49s, Epoch: [28/300], Train_PSNR: 25.36, Train_SSIM: 0.7867, Train_CIEDE2000:6.1997, Time:2.39min
+Date: 2024-11-09 19:42:13s, Epoch: [29/300], Train_PSNR: 25.43, Train_SSIM: 0.7901, Train_CIEDE2000:6.0990, Time:2.39min
+Date: 2024-11-09 19:44:34s, Epoch: [30/300], Train_PSNR: 23.59, Train_SSIM: 0.7345, Train_CIEDE2000:8.2648, Time:2.36min
+Date: 2024-11-09 19:44:48s, Epoch: [30/300], Test_PSNR: 24.86, Test_SSIM: 0.7788, Test_CIEDE2000:6.3162
+Date: 2024-11-09 19:47:12s, Epoch: [31/300], Train_PSNR: 25.08, Train_SSIM: 0.7840, Train_CIEDE2000:6.3167, Time:2.39min
+Date: 2024-11-09 19:49:35s, Epoch: [32/300], Train_PSNR: 25.36, Train_SSIM: 0.7892, Train_CIEDE2000:6.1339, Time:2.39min
+Date: 2024-11-09 19:51:58s, Epoch: [33/300], Train_PSNR: 25.47, Train_SSIM: 0.7916, Train_CIEDE2000:6.0518, Time:2.38min
+Date: 2024-11-09 19:54:20s, Epoch: [34/300], Train_PSNR: 25.45, Train_SSIM: 0.7914, Train_CIEDE2000:6.0235, Time:2.36min
+Date: 2024-11-09 19:56:43s, Epoch: [35/300], Train_PSNR: 25.18, Train_SSIM: 0.7670, Train_CIEDE2000:6.5224, Time:2.39min
+Date: 2024-11-09 20:31:08s, Epoch: [1/300], Train_PSNR: 21.34, Train_SSIM: 0.5676, Train_CIEDE2000:11.7918, Time:2.41min
+Date: 2024-11-09 20:33:30s, Epoch: [2/300], Train_PSNR: 24.05, Train_SSIM: 0.7465, Train_CIEDE2000:7.2135, Time:2.36min
